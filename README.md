@@ -1,4 +1,4 @@
-JSON Web Token Authentication using Express, 
+**JSON Web Token Authentication using Express**
 
 To test, we will need to use POSTMAN.
 
