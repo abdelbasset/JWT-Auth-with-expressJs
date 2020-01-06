@@ -3,7 +3,7 @@
 To test, we will need to use POSTMAN.
 
 Go to POSTMAN, and send a post request with the following JSON object in its body.
-localhost:8888/login
+>localhost:8888/login
 ```ruby
 {
   "username": "clarkKent",
